@@ -1,0 +1,16 @@
+{
+  "name": "e2e",
+  "description": "Nightwatch Spike",
+  "version": "0.0.0",
+  "author": "Jiang Yanzhu",
+  "private": true,
+  "scripts": {
+    "test": "./node_modules/.bin/nightwatch"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.0",
+    "selenium-server": "^2.53.1",
+    "chromedriver": "^2.0.0",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
