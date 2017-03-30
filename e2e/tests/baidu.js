@@ -1,4 +1,5 @@
 module.exports = {
+  '@disabled': true,
   tags: ['测试baidu'],
   'Step One' : function(client){
     client
